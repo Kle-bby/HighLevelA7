@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Kaleb/Documents/GitHub/HighLevelA7/Platformer2D/Content/Textures/SandWorldTiles.uasset",
+				"C:/Users/Kaleb/Documents/GitHub/HighLevelA7/Platformer2D/Content/Tilesets/SandWorldTiles_TileSet.uasset",
+				"C:/Users/Kaleb/Documents/GitHub/HighLevelA7/Platformer2D/Content/Textures/Tiles/SandWorldTiles.uasset",
+				"C:/Users/Kaleb/Documents/GitHub/HighLevelA7/Platformer2D/Content/Tilemaps/SandWorldTiles_TileMap.uasset",
+				"C:/Users/Kaleb/Documents/GitHub/HighLevelA7/Platformer2D/Content/Tilemaps/Level1_TileMap.uasset",
+				"C:/Users/Kaleb/Documents/GitHub/HighLevelA7/Platformer2D/Content/Levels/LevelOne.umap"
+			]
+		}
+	]
+}
